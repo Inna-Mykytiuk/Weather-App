@@ -1,4 +1,4 @@
-4806
+4803
 88G:\Full-stack\Projects\Prod\Weather-App\node_modules\caniuse-lite\data\regions\alt-ww.js133198160681913128 0
 70G:\Full-stack\Projects\Prod\Weather-App\src\images\icons\night\305.png130734119222030841 0
 75G:\Full-stack\Projects\Prod\Weather-App\node_modules\dom-serializer\lib\esm133198146889765643 1
@@ -54,10 +54,10 @@
 70G:\Full-stack\Projects\Prod\Weather-App\src\images\icons\night\182.png130734119219999499 0
 99G:\Full-stack\Projects\Prod\Weather-App\node_modules\electron-to-chromium\full-chromium-versions.js133198146587168523 0
 80G:\Full-stack\Projects\Prod\Weather-App\node_modules\is-binary-path\package.json133198146470203986 0
-44G:\Full-stack\Projects\Prod\Weather-App\dist133200671569175530 1
+44G:\Full-stack\Projects\Prod\Weather-App\dist133200696061120934 1
 81G:\Full-stack\Projects\Prod\Weather-App\node_modules\sass\types\value\string.d.ts133198147258086374 0
 87G:\Full-stack\Projects\Prod\Weather-App\node_modules\type-fest\ts41\delimiter-case.d.ts133198146843721684 0
-50G:\Full-stack\Projects\Prod\Weather-App\.gitignore133198140966779532 0
+50G:\Full-stack\Projects\Prod\Weather-App\.gitignore133192058490074238 0
 76G:\Full-stack\Projects\Prod\Weather-App\node_modules\terser\lib\sourcemap.js133198147158394982 0
 82G:\Full-stack\Projects\Prod\Weather-App\node_modules\fast-glob\out\utils\string.js133198147002140242 0
 88G:\Full-stack\Projects\Prod\Weather-App\node_modules\node-addon-api\package-support.json133198146907839647 0
@@ -89,7 +89,7 @@
 88G:\Full-stack\Projects\Prod\Weather-App\node_modules\@nodelib\fs.stat\out\types\index.js133198146723468668 0
 100G:\Full-stack\Projects\Prod\Weather-App\node_modules\parcel-reporter-clean-dist\.circleci\config.yml133198147199769732 0
 70G:\Full-stack\Projects\Prod\Weather-App\src\images\icons\night\119.png130734119218905681 0
-52G:\Full-stack\Projects\Prod\Weather-App\package.json133200671714449396 0
+52G:\Full-stack\Projects\Prod\Weather-App\package.json133200681056716615 0
 87G:\Full-stack\Projects\Prod\Weather-App\node_modules\svgo\plugins\convertShapeToPath.js133198146962651430 0
 87G:\Full-stack\Projects\Prod\Weather-App\node_modules\caniuse-lite\data\features\midi.js133198160828762362 0
 52G:\Full-stack\Projects\Prod\Weather-App\README.en.md133198140969588361 0
@@ -114,14 +114,8 @@
 134G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-arm-gnueabihf.node133198147126407996 0
 87G:\Full-stack\Projects\Prod\Weather-App\node_modules\lmdb\dependencies\lz4\lib\xxhash.h133198147325344399 0
 70G:\Full-stack\Projects\Prod\Weather-App\node_modules\lmdb\util\when.js133198147341063039 0
-43G:\Full-stack\Projects\Prod\Weather-App\src133198162967548569 1
+43G:\Full-stack\Projects\Prod\Weather-App\src133200679276802494 1
 74G:\Full-stack\Projects\Prod\Weather-App\node_modules\svgo\plugins\_path.js133198146703343096 0
-65G:\Full-stack\Projects\Prod\Weather-App\node_modules\domutils\lib133198146995001646 1
-59G:\Full-stack\Projects\Prod\Weather-App\node_modules\merge2133198146596082068 1
-75G:\Full-stack\Projects\Prod\Weather-App\node_modules\domutils\lib\legacy.js133198146670727212 0
-64G:\Full-stack\Projects\Prod\Weather-App\assets\repo-settings.png133198140971846885 0
-93G:\Full-stack\Projects\Prod\Weather-App\node_modules\dom-serializer\lib\esm\foreignNames.d.ts133198146866586664 0
-54G:\Full-stack\Projects\Prod\Weather-App\src\.gitignore133192058490074238 0
 108G:\Full-stack\Projects\Prod\Weather-App\node_modules\lmdb\node_modules\node-addon-api\tools\eslint-format.js133198146905524649 0
 80G:\Full-stack\Projects\Prod\Weather-App\node_modules\sass\types\value\color.d.ts133198147192117956 0
 63G:\Full-stack\Projects\Prod\Weather-App\node_modules\parse-json133198146595554459 1
@@ -133,20 +127,20 @@
 98G:\Full-stack\Projects\Prod\Weather-App\node_modules\abortcontroller-polyfill\dist\cjs-ponyfill.js133198146756366429 0
 53G:\Full-stack\Projects\Prod\Weather-App\src\README.md133198057657624390 0
 83G:\Full-stack\Projects\Prod\Weather-App\node_modules\sass\types\legacy\options.d.ts133198147239366312 0
-54G:\Full-stack\Projects\Prod\Weather-App\src\index.html133198170537977172 0
+54G:\Full-stack\Projects\Prod\Weather-App\src\index.html133200696049724419 0
 76G:\Full-stack\Projects\Prod\Weather-App\node_modules\svgo\lib\stringifier.js133198147211016071 0
 97G:\Full-stack\Projects\Prod\Weather-App\node_modules\caniuse-lite\data\features\css-appearance.js133198160713980989 0
 72G:\Full-stack\Projects\Prod\Weather-App\src\images\icons\night\Thumbs.db130734121149170000 0
 79G:\Full-stack\Projects\Prod\Weather-App\node_modules\react-refresh\package.json133198146792332085 0
 76G:\Full-stack\Projects\Prod\Weather-App\node_modules\terser\lib\transform.js133198147171294732 0
-52G:\Full-stack\Projects\Prod\Weather-App\src\index.js133200670987988962 0
+52G:\Full-stack\Projects\Prod\Weather-App\src\index.js133200691551637103 0
 70G:\Full-stack\Projects\Prod\Weather-App\src\images\icons\night\299.png130734119221562094 0
 90G:\Full-stack\Projects\Prod\Weather-App\node_modules\@swc\helpers\src\_set_prototype_of.js133198147375913653 0
 68G:\Full-stack\Projects\Prod\Weather-App\src\images\icons\day\365.png130734119218124392 0
 114G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\core\test\fixtures\common-targets-ignore\package.json133198147413468798 0
 76G:\Full-stack\Projects\Prod\Weather-App\node_modules\csso\lib\replace\Url.js133198147117890286 0
 80G:\Full-stack\Projects\Prod\Weather-App\node_modules\htmlparser2\lib\Parser.d.ts133198146899500769 0
-58G:\Full-stack\Projects\Prod\Weather-App\src\sass\main.scss133198162663188238 0
+58G:\Full-stack\Projects\Prod\Weather-App\src\sass\main.scss133200689336168813 0
 93G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\node-resolver-core\src\_empty.js133198146579121199 0
 101G:\Full-stack\Projects\Prod\Weather-App\node_modules\caniuse-lite\data\features\css-math-functions.js133198160733205182 0
 85G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\transformer-posthtml\lib133198146622747248 1
@@ -162,7 +156,7 @@
 80G:\Full-stack\Projects\Prod\Weather-App\node_modules\node-gyp-build\package.json133198146686974611 0
 82G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\types\lib\unsafe.d.ts133198146775676832 0
 74G:\Full-stack\Projects\Prod\Weather-App\node_modules\error-ex\package.json133198146470386996 0
-62G:\Full-stack\Projects\Prod\Weather-App\src\sass\_layouts.scss133200670759406900 0
+62G:\Full-stack\Projects\Prod\Weather-App\src\sass\_layouts.scss133200684028499494 0
 70G:\Full-stack\Projects\Prod\Weather-App\src\images\icons\night\359.png130734119224218474 0
 114G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\src133198147231891360 1
 70G:\Full-stack\Projects\Prod\Weather-App\node_modules\fast-glob\LICENSE133198146470386996 0
@@ -272,7 +266,6 @@
 99G:\Full-stack\Projects\Prod\Weather-App\node_modules\caniuse-lite\data\features\css-color-adjust.js133198160717860717 0
 108G:\Full-stack\Projects\Prod\Weather-App\node_modules\dom-serializer\node_modules\entities\lib\index.d.ts.map133198146876144726 0
 104G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\runtime-js\src\helpers\browser\js-loader.js133198147002625159 0
-62G:\Full-stack\Projects\Prod\Weather-App\dist\index.975ef6c8.js133200671567704061 0
 70G:\Full-stack\Projects\Prod\Weather-App\src\images\icons\night\317.png130734119222655882 0
 85G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\transformer-posthtml\src133198146663585429 1
 107G:\Full-stack\Projects\Prod\Weather-App\node_modules\parcel-reporter-clean-dist\test\helpers\getAllFiles.js133198146668274407 0
@@ -854,6 +847,8 @@
 78G:\Full-stack\Projects\Prod\Weather-App\node_modules\htmlparser2\lib\Parser.js133198146631243293 0
 86G:\Full-stack\Projects\Prod\Weather-App\node_modules\lmdb\dependencies\lz4\lib\lz4hc.c133198147062309788 0
 57G:\Full-stack\Projects\Prod\Weather-App\node_modules\lmdb133198147367269965 1
+65G:\Full-stack\Projects\Prod\Weather-App\node_modules\domutils\lib133198146995001646 1
+59G:\Full-stack\Projects\Prod\Weather-App\node_modules\merge2133198146596082068 1
 89G:\Full-stack\Projects\Prod\Weather-App\node_modules\css-tree\lib\syntax\node\Operator.js133198147289747835 0
 75G:\Full-stack\Projects\Prod\Weather-App\node_modules\entities\lib\generated133198146981465400 1
 116G:\Full-stack\Projects\Prod\Weather-App\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV3\package.json133198146971493936 0
@@ -1188,12 +1183,12 @@
 77G:\Full-stack\Projects\Prod\Weather-App\node_modules\entities\lib\decode.d.ts133198146992180897 0
 81G:\Full-stack\Projects\Prod\Weather-App\node_modules\weak-lru-cache\tests\test.js133198146702731059 0
 84G:\Full-stack\Projects\Prod\Weather-App\node_modules\caniuse-lite\data\regions\HT.js133198160790700451 0
+82G:\Full-stack\Projects\Prod\Weather-App\node_modules\weak-lru-cache\dist\index.cjs133198146471761858 0
+77G:\Full-stack\Projects\Prod\Weather-App\node_modules\term-size\vendor\windows133198146683266310 1
 66G:\Full-stack\Projects\Prod\Weather-App\node_modules\picomatch\lib133198146741215647 1
 89G:\Full-stack\Projects\Prod\Weather-App\node_modules\v8-compile-cache\v8-compile-cache.js133198146514586809 0
 86G:\Full-stack\Projects\Prod\Weather-App\node_modules\@swc\helpers\lib\_create_super.js133198147062300066 0
 63G:\Full-stack\Projects\Prod\Weather-App\node_modules\sass\types133198147244730413 1
-77G:\Full-stack\Projects\Prod\Weather-App\node_modules\term-size\vendor\windows133198146683266310 1
-82G:\Full-stack\Projects\Prod\Weather-App\node_modules\weak-lru-cache\dist\index.cjs133198146471761858 0
 122G:\Full-stack\Projects\Prod\Weather-App\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV5\files\embed\embed2133198147195414248 1
 82G:\Full-stack\Projects\Prod\Weather-App\node_modules\v8-compile-cache\CHANGELOG.md133198146612773718 0
 84G:\Full-stack\Projects\Prod\Weather-App\node_modules\caniuse-lite\data\regions\SN.js133198160872730602 0
@@ -1849,6 +1844,8 @@
 113G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased133198147271369554 1
 81G:\Full-stack\Projects\Prod\Weather-App\node_modules\postcss-value-parser\LICENSE133198146469643614 0
 84G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\utils\src\objectHash.js133198147125426486 0
+98G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\transformer-svg\src\SVGTransformer.js133198146775676832 0
+80G:\Full-stack\Projects\Prod\Weather-App\node_modules\css-select\lib\compile.d.ts133198147025252452 0
 86G:\Full-stack\Projects\Prod\Weather-App\node_modules\postcss-value-parser\package.json133198146732192721 0
 83G:\Full-stack\Projects\Prod\Weather-App\node_modules\postcss-value-parser\README.md133198146759826376 0
 71G:\Full-stack\Projects\Prod\Weather-App\node_modules\node-releases\data133198146640599787 1
@@ -1931,6 +1928,7 @@
 125G:\Full-stack\Projects\Prod\Weather-App\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV2\files\embed\file2.txt133198147121032285 0
 91G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\core\test\EntryRequest.test.js133198147199769732 0
 80G:\Full-stack\Projects\Prod\Weather-App\node_modules\domelementtype\lib\index.js133198146607838171 0
+76G:\Full-stack\Projects\Prod\Weather-App\node_modules\node-addon-api\index.js133198146897278819 0
 115G:\Full-stack\Projects\Prod\Weather-App\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV1\files\embed133198147161977789 1
 144G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main-directory\nested\index.js133198147082880366 0
 89G:\Full-stack\Projects\Prod\Weather-App\node_modules\css-what\lib\commonjs\types.d.ts.map133198146921745428 0
@@ -1971,7 +1969,7 @@
 70G:\Full-stack\Projects\Prod\Weather-App\node_modules\parcel\lib\cli.js133198146641120171 0
 77G:\Full-stack\Projects\Prod\Weather-App\node_modules\htmlparser2\lib\index.js133198146574256671 0
 107G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\runtime-browser-hmr\src\loaders\.eslintrc.json133198146762794381 0
-61G:\Full-stack\Projects\Prod\Weather-App\dist\113.25111882.png133200671565079886 0
+61G:\Full-stack\Projects\Prod\Weather-App\dist\113.25111882.png133200696058547823 0
 74G:\Full-stack\Projects\Prod\Weather-App\node_modules\ordered-binary\assets133198146774197733 1
 84G:\Full-stack\Projects\Prod\Weather-App\node_modules\caniuse-lite\data\regions\MP.js133198160830903626 0
 72G:\Full-stack\Projects\Prod\Weather-App\node_modules\ordered-binary\dist133198146515103974 1
@@ -2057,7 +2055,6 @@
 82G:\Full-stack\Projects\Prod\Weather-App\node_modules\cosmiconfig\dist\loaders.d.ts133198147076618131 0
 79G:\Full-stack\Projects\Prod\Weather-App\node_modules\node-addon-api\common.gypi133198146548000053 0
 79G:\Full-stack\Projects\Prod\Weather-App\node_modules\node-addon-api\except.gypi133198146595806449 0
-76G:\Full-stack\Projects\Prod\Weather-App\node_modules\node-addon-api\index.js133198146897278819 0
 94G:\Full-stack\Projects\Prod\Weather-App\node_modules\.bin\node-gyp-build-optional-packages.cmd133198147625043211 0
 78G:\Full-stack\Projects\Prod\Weather-App\node_modules\node-addon-api\LICENSE.md133198146951516051 0
 88G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\runtime-js\src\helpers\node133198147081650458 1
@@ -2782,6 +2779,9 @@
 95G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\core\src\requests\DevDepRequest.js133198147181670853 0
 77G:\Full-stack\Projects\Prod\Weather-App\node_modules\domutils\lib\legacy.d.ts133198146965945262 0
 75G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\transformer-js133198147423957508 1
+75G:\Full-stack\Projects\Prod\Weather-App\node_modules\domutils\lib\legacy.js133198146670727212 0
+64G:\Full-stack\Projects\Prod\Weather-App\assets\repo-settings.png133198140971846885 0
+93G:\Full-stack\Projects\Prod\Weather-App\node_modules\dom-serializer\lib\esm\foreignNames.d.ts133198146866586664 0
 78G:\Full-stack\Projects\Prod\Weather-App\node_modules\domutils\lib\stringify.js133198146768299631 0
 73G:\Full-stack\Projects\Prod\Weather-App\node_modules\domhandler\readme.md133198146742217865 0
 82G:\Full-stack\Projects\Prod\Weather-App\node_modules\domhandler\lib\index.d.ts.map133198146671964780 0
@@ -3003,8 +3003,6 @@
 84G:\Full-stack\Projects\Prod\Weather-App\node_modules\caniuse-lite\data\regions\AO.js133198160683029902 0
 91G:\Full-stack\Projects\Prod\Weather-App\node_modules\caniuse-lite\data\features\lazyload.js133198160814623076 0
 87G:\Full-stack\Projects\Prod\Weather-App\node_modules\css-select\lib\attributes.d.ts.map133198146906872403 0
-98G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\transformer-svg\src\SVGTransformer.js133198146775676832 0
-80G:\Full-stack\Projects\Prod\Weather-App\node_modules\css-select\lib\compile.d.ts133198147025252452 0
 84G:\Full-stack\Projects\Prod\Weather-App\node_modules\css-select\lib\compile.d.ts.map133198146916688358 0
 78G:\Full-stack\Projects\Prod\Weather-App\node_modules\css-select\lib\compile.js133198146662343838 0
 84G:\Full-stack\Projects\Prod\Weather-App\node_modules\caniuse-lite\data\regions\JM.js133198160806597680 0
@@ -4177,6 +4175,7 @@
 91G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\transformer-html\lib\inline.js133198146721741833 0
 90G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\runtime-js\src\helpers\worker133198147087525560 1
 80G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\transformer-css\src133198146578944857 1
+68G:\Full-stack\Projects\Prod\Weather-App\dist\Weather-App.59712999.js133200696059295820 0
 98G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\transformer-css\lib\CSSTransformer.js133198146529947848 0
 86G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\transformer-babel\LICENSE133198146470713512 0
 91G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\transformer-babel\package.json133198146961081572 0
@@ -4201,6 +4200,7 @@
 97G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\source-map\parcel_sourcemap_node\src133198147256746358 1
 80G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\events\src\types.js133198146810465165 0
 127G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.darwin-arm64.node133198147041957719 0
+72G:\Full-stack\Projects\Prod\Weather-App\dist\Weather-App.59712999.js.map133200696059604992 0
 130G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-arm64-gnu.node133198147154910656 0
 91G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\packager-js\lib\DevPackager.js133198146714396216 0
 131G:\Full-stack\Projects\Prod\Weather-App\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-arm64-musl.node133198147182405139 0
@@ -4776,7 +4776,7 @@
 100G:\Full-stack\Projects\Prod\Weather-App\node_modules\@babel\helper-validator-identifier\lib\index.js133198146625813360 0
 102G:\Full-stack\Projects\Prod\Weather-App\node_modules\@babel\helper-validator-identifier\lib\keyword.js133198146666290786 0
 83G:\Full-stack\Projects\Prod\Weather-App\node_modules\@babel\code-frame\package.json133198146625564878 0
-67G:\Full-stack\Projects\Prod\Weather-App\dist\index.f7626f62.css.map133200671567704061 0
+67G:\Full-stack\Projects\Prod\Weather-App\dist\index.f7626f62.css.map133200696058966700 0
 63G:\Full-stack\Projects\Prod\Weather-App\node_modules\.bin\acorn133198147624993343 0
 67G:\Full-stack\Projects\Prod\Weather-App\node_modules\.bin\acorn.ps1133198147624963420 0
 74G:\Full-stack\Projects\Prod\Weather-App\node_modules\.bin\browserslist.cmd133198147624993343 0
@@ -4797,11 +4797,8 @@
 62G:\Full-stack\Projects\Prod\Weather-App\node_modules\.bin\svgo133198147625103038 0
 68G:\Full-stack\Projects\Prod\Weather-App\node_modules\.bin\terser.cmd133198147627171277 0
 68G:\Full-stack\Projects\Prod\Weather-App\node_modules\.bin\terser.ps1133198147628161880 0
-64G:\Full-stack\Projects\Prod\Weather-App\dist\cloudy.4c5643e8.jpg133200671565519904 0
-74G:\Full-stack\Projects\Prod\Weather-App\dist\cloudy.4c5643e8.jpg.516028256133198156775321518 0
-66G:\Full-stack\Projects\Prod\Weather-App\dist\index.975ef6c8.js.map133200671567724006 0
-63G:\Full-stack\Projects\Prod\Weather-App\dist\index.f7626f62.css133200671567704061 0
-55G:\Full-stack\Projects\Prod\Weather-App\dist\index.html133200671566457398 0
-66G:\Full-stack\Projects\Prod\Weather-App\dist\index.html.2965591339133198156775321518 0
+64G:\Full-stack\Projects\Prod\Weather-App\dist\cloudy.4c5643e8.jpg133200696060133572 0
+63G:\Full-stack\Projects\Prod\Weather-App\dist\index.f7626f62.css133200696058966700 0
+55G:\Full-stack\Projects\Prod\Weather-App\dist\index.html133200696059305793 0
 72G:\Full-stack\Projects\Prod\Weather-App\assets\actions-config-step-1.png133198140971065542 0
 68G:\Full-stack\Projects\Prod\Weather-App\.github\workflows\deploy.yml133198140966310604 0

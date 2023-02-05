@@ -147,7 +147,7 @@ function fetchWeatherData() {
       if (code == 1000) {
         /*set the background img to clear if 
         the weather is clear*/
-        app.style.backgroundImage = `url(../images/${timeOfDay}/cloudy.jpg)`;
+        app.style.backgroundImage = `url(./images/${timeOfDay}/cloudy.jpg)`;
         /*change the button bg color depending
         on if it's day or night */
         btn.style.background = '#e5ba92';

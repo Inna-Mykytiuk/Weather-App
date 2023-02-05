@@ -2,12 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/Inna-Mykytiuk/Weather-App.git",
+  "homepage": "https://inna-mykytiuk.github.io/Weather-App/",
   "scripts": {
-    "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Weather-App/",
-    "deploy": "gh-pages -d dist",
-    "predeploy": "npm run build"
+    "start": "parcel src/*.html --open",
+    "build": "parcel build src/*.html --public-url /Weather-App/"
   },
   "repository": {
     "type": "git",

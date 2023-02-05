@@ -86,7 +86,7 @@ function fetchWeatherData() {
   name with template literals*/
   //your own key
   fetch(
-    `http://api.weatherapi.com/v1/current.json?key=1afb03c498bb474489c193714230102&q=${cityInput}`
+    `https://api.weatherapi.com/v1/current.json?key=1afb03c498bb474489c193714230102&q=${cityInput}&aqi=yes`
   )
     /*Take the data (which is in json format)
     and convert it to a regular JS object */
@@ -127,7 +127,7 @@ function fetchWeatherData() {
       /*reformat the icon url to your own 
       local folder path and add it to the page*/
 
-      icon.src = '../images/icons/' + iconId;
+      icon.src = './images/icons/' + iconId;
 
       //add the weather details to the page
       cloudOutput.innerHTML = data.current.cloud + '%';
@@ -147,7 +147,7 @@ function fetchWeatherData() {
       if (code == 1000) {
         /*set the background img to clear if 
         the weather is clear*/
-        app.style.backgroundImage = `url(./images/${timeOfDay}/cloudy.jpg)`;
+        app.style.backgroundImage = `url(../images/${timeOfDay}/clear.jpg)`;
         /*change the button bg color depending
         on if it's day or night */
         btn.style.background = '#e5ba92';
@@ -169,7 +169,7 @@ function fetchWeatherData() {
         code == 1279 ||
         code == 1282
       ) {
-        app.style.backgroundImage = `url(./images/${timeOfDay}/clear.jpg)`;
+        app.style.backgroundImage = `url(../images/${timeOfDay}/cloudy.jpg)`;
         btn.style.background = '#fa6d1b';
         if (timeOfDay == 'night') {
           btn.style.background = '#181e27';
@@ -194,13 +194,13 @@ function fetchWeatherData() {
         code == 1249 ||
         code == 1252
       ) {
-        app.style.backgroundImage = `url(./images/${timeOfDay}/rainy.jpg)`;
+        app.style.backgroundImage = `url(../images/${timeOfDay}/rainy.jpg)`;
         btn.style.background = '#647d75';
         if (timeOfDay == 'night') {
           btn.style.background = '#325c80';
         } //and finally snow
       } else {
-        app.style.backgroundImage = `url(./images/${timeOfDay}/snowy.jpg)`;
+        app.style.backgroundImage = `url(../images/${timeOfDay}/snowy.jpg)`;
         btn.style.background = '#4d72aa';
         if (timeOfDay == 'night') {
           btn.style.background = '#1b1b1b';
@@ -222,5 +222,3 @@ fetchWeatherData();
 
 //fade in the page
 app.style.opacity = '1';
-
-console.log('hello');
